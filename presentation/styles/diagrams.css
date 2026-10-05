@@ -1,0 +1,24 @@
+/* Shared SVG diagram styling (.system-map etc. are SVG roots). Text stays live/editable. */
+svg.diagram { display: block; overflow: visible; font-family: var(--font-sans); }
+svg.diagram text { fill: var(--black); }
+svg.diagram .t-sm { font-size: 17px; }
+svg.diagram .t-md { font-size: 20px; font-weight: 500; }
+svg.diagram .t-lg { font-size: 24px; font-weight: 700; }
+svg.diagram .t-xl { font-family: var(--font-display); font-size: 36px; }
+svg.diagram .display { font-family: var(--font-display); }
+svg.diagram .mono { font-family: var(--font-mono); letter-spacing: .04em; }
+svg.diagram .muted { fill: var(--ink-3); }
+
+.diagram-node, svg.diagram .node { fill: var(--cream-light); stroke: var(--black); stroke-width: 2; }
+svg.diagram .node.blue { fill: var(--blue); }
+svg.diagram .node.teal, svg.diagram .node.lavender { fill: var(--lavender); }
+svg.diagram .node.amber, svg.diagram .node.orange { fill: var(--orange); }
+svg.diagram .node.coral, svg.diagram .node.pink { fill: var(--pink); }
+svg.diagram .node.lime { fill: var(--lime); }
+svg.diagram .node.dark { fill: var(--black); }
+svg.diagram .node.soft-blue { fill: var(--blue-soft); }
+
+.diagram-edge, svg.diagram .edge { fill: none; stroke: var(--black); stroke-width: 2.5; }
+svg.diagram .edge.dashed { stroke-dasharray: 9 7; }
+svg.diagram .edge.thin { stroke-width: 1.5; }
+svg.diagram .boundary { fill: none; stroke: var(--black); stroke-width: 2; stroke-dasharray: 2 9; stroke-linecap: round; }

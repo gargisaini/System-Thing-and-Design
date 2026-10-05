@@ -1,0 +1,36 @@
+/* Editorial hierarchy. Display = Archivo Black, lowercase, tight. Body = DM Sans. Mono only for data/source labels.
+   Minimum on-canvas size: 16px. */
+.display-title, .title { font: 400 104px/0.9 var(--font-display); letter-spacing: -0.035em; text-transform: lowercase; margin: 0; color: var(--black); }
+.display-title.xl { font-size: 168px; }
+.display-title.md, .title.md { font-size: 84px; }
+.section-title { font: 400 40px/1 var(--font-display); letter-spacing: -0.02em; text-transform: lowercase; margin: 0; }
+.body-text, .body { font: 400 22px/1.45 var(--font-sans); color: var(--ink-2); }
+.small { font: 400 18px/1.45 var(--font-sans); color: var(--ink-2); }
+.lede { font: 500 26px/1.4 var(--font-sans); color: var(--ink-2); margin: 20px 0 0; max-width: 1200px; }
+.label { font: 700 16px/1.2 var(--font-sans); letter-spacing: .14em; text-transform: uppercase; color: var(--black); }
+.mono { font-family: var(--font-mono); }
+.number { font: 400 120px/0.85 var(--font-display); letter-spacing: -0.04em; }
+
+/* Rotated tag label: the signature accent (e.g. 'the contradiction'). */
+.accent-label { display: inline-block; font: 700 22px/1 var(--font-sans); letter-spacing: .01em; text-transform: none; padding: 9px 16px 10px; background: var(--pink); color: var(--black); border-radius: 999px; rotate: -4deg; white-space: nowrap; }
+.accent-label.lime { background: var(--lime); }
+.accent-label.orange { background: var(--orange); }
+.accent-label.lavender { background: var(--lavender); }
+.accent-label.blue { background: var(--blue); }
+
+/* Kicker row above titles */
+.kicker { display: flex; gap: 14px; align-items: center; font: 700 17px/1 var(--font-sans); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3); }
+.kicker .no { font: 400 17px var(--font-display); color: var(--black); background: var(--lime); padding: 6px 9px; letter-spacing: 0; }
+
+/* Highlight = accent block behind the words (text stays black) */
+.hl, .hl-amber, .hl-coral, .hl-blue, .hl-teal { color: var(--black); background: var(--lime); padding: 0 .12em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.hl-coral { background: var(--pink); }
+.hl-blue { background: var(--blue); }
+.hl-teal { background: var(--lavender); }
+.hl-orange { background: var(--orange); padding: 0 .12em; }
+.q::before { content: "\201C"; }
+.q::after { content: "\201D"; }
+strong { font-weight: 700; }
+
+.keep-case { text-transform: none; }
+.display { font-family: var(--font-display); font-weight: 400; }

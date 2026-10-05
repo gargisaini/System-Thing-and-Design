@@ -1,0 +1,49 @@
+/* Design system: editorial cream + black, with selective accent blocks.
+   Semantic use of accents (shape/label always accompanies colour; colour never carries meaning alone):
+   lime     = key insight / the thing to remember
+   blue     = information / visibility
+   lavender = structure / rules / governance
+   pink     = people / social friction / failure
+   orange   = tension / risk / uncertainty
+   Accents are light, so text on them is always --black. */
+:root {
+  --cream: #F7F4E8;
+  --cream-light: #FFFDF5;
+  --black: #111111;
+  --lime: #DFFF00;
+  --pink: #F19AC5;
+  --orange: #F58B4D;
+  --lavender: #B9A7F5;
+  --blue: #9DB7E8;
+
+  /* tints for large fills */
+  --lime-soft: #F3FFB0;
+  --pink-soft: #FBE1EE;
+  --orange-soft: #FDE2D1;
+  --lavender-soft: #E9E3FD;
+  --blue-soft: #E1E9F8;
+
+  /* neutrals */
+  --bg: var(--cream);
+  --paper: var(--cream-light);
+  --ink: var(--black);
+  --ink-2: #2E2E2E;
+  --ink-3: #5C5A52;
+  --line: #CFCAB8;
+  --grid: rgba(17, 17, 17, 0.06);
+
+  /* legacy semantic aliases used by slide files */
+  --teal: var(--lavender); --teal-soft: var(--lavender-soft);
+  --amber: var(--orange); --amber-soft: var(--orange-soft);
+  --coral: var(--pink); --coral-soft: var(--pink-soft);
+  --dark: var(--black); --dark-soft: #E7E2D0;
+  --blue-ink: var(--black); --teal-ink: var(--black); --amber-ink: var(--black); --coral-ink: var(--black);
+
+  --font-display: "Archivo Black", "Arial Black", sans-serif;
+  --font-sans: "DM Sans", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", Consolas, monospace;
+
+  --radius: 6px;
+  --pad-x: 112px;
+  --shadow: 0 10px 24px -12px rgba(17, 17, 17, 0.28);
+}

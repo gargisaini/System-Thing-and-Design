@@ -1,0 +1,68 @@
+/* Deck chrome + slide canvas. Slides are authored on a fixed 1920x1080 canvas
+   and scaled to fit the viewport, so nothing reflows or clips at other sizes. */
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: #0E141B; overflow: hidden; }
+body { font-family: var(--font-sans); color: var(--ink); -webkit-font-smoothing: antialiased; }
+
+#stage { position: fixed; left: 0; right: 0; top: 0; bottom: var(--notes-h, 0px); display: grid; place-items: center; }
+#canvas { position: absolute; width: 1920px; height: 1080px; left: 50%; top: 50%; margin: -540px 0 0 -960px; transform-origin: center center; }
+
+.slide {
+  position: absolute; inset: 0; overflow: hidden;
+  background-color: var(--bg);
+  padding: 72px var(--pad-x) 92px;
+  opacity: 0; visibility: hidden; transform: translateX(24px);
+  transition: opacity .45s ease, transform .45s ease, visibility 0s linear .45s;
+  display: flex; flex-direction: column;
+}
+.slide.past { transform: translateX(-24px); }
+.slide.active { opacity: 1; visibility: visible; transform: none; transition: opacity .45s ease, transform .45s ease; }
+.slide.grid { background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 48px 48px; }
+.slide.light { background-color: var(--cream-light); }
+.chapter-mark { position: absolute; top: 56px; right: 80px; width: 96px; height: 96px; }
+
+/* Staggered entrance for elements marked .anim (delay via --d). */
+.slide .anim { opacity: 0; transform: translateY(10px); }
+.slide.active .anim { animation: rise .55s cubic-bezier(.2,.7,.2,1) forwards; animation-delay: calc(var(--d, 0) * 90ms + 120ms); }
+@keyframes rise { to { opacity: 1; transform: none; } }
+.slide.active .draw { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 1.4s ease forwards; animation-delay: calc(var(--d, 0) * 90ms + 300ms); }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .slide, .slide.active { transition: none; }
+  .slide .anim, .slide.active .anim { opacity: 1; transform: none; animation: none; }
+  .slide.active .draw { animation: none; stroke-dasharray: none; stroke-dashoffset: 0; }
+}
+
+/* Slide footer: generated from slide metadata. */
+.slide-foot { position: absolute; left: var(--pad-x); right: var(--pad-x); bottom: 30px; display: flex; justify-content: space-between; align-items: center; font: 700 14px/1 var(--font-sans); text-transform: uppercase; color: var(--ink-3); letter-spacing: .1em; padding-top: 12px; border-top: 2px solid var(--black); }
+.slide-foot .src { color: var(--ink-3); }
+
+/* HUD */
+#hud { position: fixed; left: 0; right: 0; bottom: var(--notes-h, 0px); height: 4px; z-index: 5; pointer-events: none; }
+#progress { height: 100%; background: var(--lime); width: 0; transition: width .4s ease; }
+#counter { position: fixed; right: 16px; top: 12px; opacity: .25; transition: opacity .2s; z-index: 6; font: 500 13px var(--font-mono); color: #C9CDD2; background: rgba(14,20,27,.72); padding: 6px 10px; border-radius: 6px; display: flex; gap: 10px; align-items: center; }
+#counter button { all: unset; cursor: pointer; padding: 0 4px; color: #F3F1EC; }
+#counter button:focus-visible { outline: 2px solid var(--amber); }
+#counter:hover, #counter:focus-within { opacity: 1; }
+body.clean #counter { display: none; }
+
+/* Speaker notes panel (N) */
+#notes { position: fixed; left: 0; right: 0; bottom: 0; height: var(--notes-h, 0px); overflow: auto; background: #0E141B; color: #E5E7EA; border-top: 1px solid #2B3540; font: 16px/1.5 var(--font-sans); display: none; padding: 18px 28px; z-index: 7; }
+body.notes-open #notes { display: grid; grid-template-columns: 1.6fr 1fr 1fr; gap: 28px; }
+#notes h4 { margin: 0 0 6px; font: 600 12px var(--font-mono); letter-spacing: .12em; text-transform: uppercase; color: #F2B66D; }
+#notes .avoid h4 { color: #F08E8D; }
+#notes .basis h4 { color: #8FB3F7; }
+#notes p { margin: 0 0 8px; }
+
+/* Sources overlay (S) */
+#sources { position: fixed; inset: 0; background: rgba(14,20,27,.94); color: #E5E7EA; z-index: 8; display: none; overflow: auto; padding: 48px 64px; font: 15px/1.5 var(--font-sans); }
+body.sources-open #sources { display: block; }
+#sources h2 { font: 600 28px var(--font-sans); margin: 0 0 6px; color: #fff; }
+#sources .sub { color: #9AA3AD; margin: 0 0 24px; font-family: var(--font-mono); font-size: 13px; }
+#sources table { width: 100%; border-collapse: collapse; }
+#sources th, #sources td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #2B3540; vertical-align: top; }
+#sources th { font: 600 12px var(--font-mono); letter-spacing: .1em; text-transform: uppercase; color: #F2B66D; }
+#sources tr.current td { background: rgba(217,119,6,.14); }
+#sources td.num { font-family: var(--font-mono); color: #F2B66D; white-space: nowrap; }
+#sources code { font-family: var(--font-mono); color: #8FB3F7; }
+#sources .close { all: unset; position: fixed; top: 20px; right: 28px; cursor: pointer; color: #fff; font: 14px var(--font-mono); padding: 8px 12px; border: 1px solid #3B4652; border-radius: 6px; }

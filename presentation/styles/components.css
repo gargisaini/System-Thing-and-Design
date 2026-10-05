@@ -1,0 +1,78 @@
+/* Reusable visual components (see js/components.js). */
+
+/* ---- Evidence badges: glyph + text, never colour alone ---- */
+.badge { display: inline-flex; align-items: center; gap: 7px; font: 700 14px/1 var(--font-sans); letter-spacing: .08em; text-transform: uppercase; padding: 7px 11px; border-radius: 999px; border: 2px solid var(--black); color: var(--black); background: var(--cream-light); white-space: nowrap; vertical-align: middle; }
+.badge::before { font-size: 12px; }
+.badge.observed { background: var(--blue); } .badge.observed::before { content: "■"; }
+.badge.quote { background: var(--pink); } .badge.quote::before { content: "●"; }
+.badge.analysis::before { content: "▲"; }
+.badge.hypothesis { border-style: dashed; background: var(--orange-soft); } .badge.hypothesis::before { content: "◆"; }
+.badge.predicted { border-style: dashed; background: var(--orange); } .badge.predicted::before { content: "◇"; }
+.badge.proposed { background: var(--lavender); } .badge.proposed::before { content: "✚"; }
+.badge.principle { background: var(--lime); } .badge.principle::before { content: "★"; }
+.badge.recommendation { background: var(--black); color: var(--cream); } .badge.recommendation::before { content: "✔"; }
+.badge.risk { background: var(--pink); } .badge.risk::before { content: "!"; }
+
+/* ---- Blocks and cards ---- */
+.color-block { background: var(--lime); color: var(--black); padding: 24px 28px; }
+.color-block.pink { background: var(--pink); } .color-block.orange { background: var(--orange); }
+.color-block.lavender { background: var(--lavender); } .color-block.blue { background: var(--blue); }
+.color-block.black { background: var(--black); color: var(--cream); }
+
+.card { background: var(--cream-light); border: 2px solid var(--black); border-radius: var(--radius); padding: 22px 24px; box-shadow: var(--shadow); }
+.card.blue { border-top: 12px solid var(--blue); }
+.card.teal, .card.lavender { border-top: 12px solid var(--lavender); }
+.card.amber, .card.orange { border-top: 12px solid var(--orange); }
+.card.coral, .card.pink { border-top: 12px solid var(--pink); }
+.card.lime { border-top: 12px solid var(--lime); }
+.card.dark { border-top: 12px solid var(--black); }
+.card.flat { box-shadow: none; }
+
+/* ---- Quote: verbatim interview quotes only ---- */
+.quote { position: relative; padding: 16px 20px 16px 20px; background: var(--pink-soft); border-left: 8px solid var(--pink); }
+.quote p { margin: 0; font: 500 24px/1.34 var(--font-sans); color: var(--black); }
+.quote p::before { content: "\201C"; }
+.quote p::after { content: "\201D"; }
+.quote .who { margin-top: 10px; font: 700 14px/1.3 var(--font-sans); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
+.quote.big p { font: 400 46px/1.08 var(--font-display); letter-spacing: -.02em; }
+
+/* ---- Insight: one major statement on a block ---- */
+.insight { background: var(--black); color: var(--cream); padding: 28px 34px; }
+.insight .label { color: var(--lime); }
+.insight p { margin: 10px 0 0; font: 500 28px/1.3 var(--font-sans); }
+
+/* ---- Stat ---- */
+.stat .number { display: block; }
+.stat .stat-label { font: 700 17px/1.25 var(--font-sans); letter-spacing: .08em; text-transform: uppercase; margin-top: 8px; }
+
+/* ---- Flow chain (journey / process) ---- */
+.chain, .journey { display: flex; align-items: stretch; }
+.chain .node { flex: 1; padding: 14px 16px; border: 2px solid var(--black); background: var(--cream-light); font: 500 19px/1.35 var(--font-sans); color: var(--black); display: flex; flex-direction: column; justify-content: center; }
+.chain .node .label { font-size: 13px; margin-bottom: 6px; color: var(--ink-3); }
+.chain .arrow { flex: 0 0 44px; display: grid; place-items: center; color: var(--black); }
+.chain .arrow svg { width: 34px; height: 16px; }
+
+/* ---- Tags ---- */
+.tag { display: inline-block; font: 400 17px/1 var(--font-display); padding: 7px 10px; background: var(--cream-light); border: 2px solid var(--black); color: var(--black); }
+.tag.blue { background: var(--blue); } .tag.teal, .tag.lavender { background: var(--lavender); }
+.tag.amber, .tag.orange { background: var(--orange); } .tag.coral, .tag.pink { background: var(--pink); }
+.tag.lime { background: var(--lime); } .tag.dark { background: var(--black); color: var(--cream); }
+
+/* ---- Matrix / timeline helpers ---- */
+.matrix { display: grid; border: 2px solid var(--black); background: var(--cream-light); }
+.matrix > * { border-right: 1.5px solid var(--line); border-bottom: 1.5px solid var(--line); padding: 12px 14px; }
+.timeline { position: relative; }
+
+.rule { height: 2px; background: var(--black); border: 0; margin: 0; }
+.banner { display: flex; gap: 14px; align-items: center; padding: 12px 18px; border: 2px dashed var(--black); background: var(--orange-soft); font: 500 19px/1.35 var(--font-sans); color: var(--black); }
+
+/* ---- Photos as editorial elements ---- */
+.photo { margin: 0; position: relative; }
+.photo img { display: block; width: 100%; height: 100%; object-fit: cover; border: 2px solid var(--black); box-shadow: var(--shadow); }
+.photo figcaption { margin-top: 8px; font: 700 13px/1.35 var(--font-sans); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+
+/* ---- Tabs (slide 05) ---- */
+.tabs { display: flex; gap: 10px; }
+.tabs button { font: 700 17px var(--font-sans); letter-spacing: .06em; text-transform: uppercase; padding: 12px 20px; border-radius: 999px; border: 2px solid var(--black); background: var(--cream-light); color: var(--black); cursor: pointer; }
+.tabs button[aria-selected="true"] { background: var(--lime); }
+.tabs button:focus-visible { outline: 3px solid var(--black); outline-offset: 3px; }

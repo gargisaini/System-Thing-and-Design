@@ -1,0 +1,502 @@
+transcripts
+
+1. . I'm. Oh my God. What's AS on the? Okay. from 2024. Yes. So, I am working with Profor PK. Peak last, yeah, but last one years, I'm working in L years. That was yours for 1.5 years. Okay. So, what are the shared resources issues that you have encountered? One thing, I guess, across college,as it's about GP access. So that face primary when the time is when everyone requires resources cooking, submissions there are some assignments which require you to use GPs. SM could say personal careare there was a clash when you could not get the GPs, even if you access for like 30 time, which are so you could not get it because it was already utilised. Yeah you wanted some files which were on a vertular server. and you can't get access to it. Qi go, youRosco continuously use. And you have to wait till that person kajj job gets finished And then it causes unnecessary delay allocation process is what I think are problematic. And what about the coffee chair or somebody occupying your table?. There were already. Then you to write a name on this is. So can you like ask them to like get up? Theigned to you keep your monitor there then I don't think nobody will ask AR just let check. It's just because during summer there are some interns who were are some new people who are not used to this environment to work. So they would set and we could just ask them to can you find some. But I did not face anyA issues regarding that. So about the GP thing, like, can you you have to sort it out of yourselves or you have some kind of authority? So if the GP is LACar, then we can sort it out just LAK channel B, you can just ping and say can I get access time then you can get taxes, but if it's college, you have to do it through the admin system administrator and then it takes something. HPC management. And it's also hard because there is only a few amount of people surving around thousand active users. Satumari request once you raise the ticket to get it processed to be. So TimeC So any situation has been, like, you have like, booked the GP for in a weekend advance, like time slot. So what is the time frame? So there are some systems, implement there are some systems where you have to pre for that particular time and then nobody can use it. Ap College can use slur, which is like simply ex utility resource man. There are two ways to access GP. First is you can submit a bad, whenever whatever resources you require are freed on the server, go up have scheduling say. It will select the optimum available GP cluster over Second one is interactive. you can access the GP for six hours, card stretch and it is also the limit changes based on are you a single degree student or you liqu research and non-earch? Research accounts have 4GUs for them. Single have only one GP per number. And. It has to bement. You can't it. So when we talk to some of the guy who was like, for the GPU, they have this website, which they can pre-book this slot and I guess that would be very specific to L L curves. Okay, SERC specific.. Even for we have is this channel, J using the GP. If there is subuling conflict, we can discuss on our slack challenge. But you have to do it internally, as I managing K. There is just one student who is managing behalf of. So any other resources other than GPU like you guys have to share? I think so it's basically, then there is. Storing of closets, yes. So there are less closets to store things you are. we are lockers and everything for every particular students. Scattered. So you have to keep it on your desk. V by Sapse in. Because there are noic capitalism inside the lab, privacy. So then, the other's advantages people have subst stolen what I have seen. I have been some cases. And also you guys can't use this bridge. Bridge we can't use. I think so. But coffee was we can. You have to request this guy. because it was just so you should not Okay. But we were planning to get a mini bar for us. So have you guys played any kind of conflict in between? Sorry, wrong question. Would we Of course, a You gave me the joke on the platter. Sorry, N conflick. We sorted out with peaceful dialogue. Oh, God. Can't relain., Anything like you have to restock some things like, you have to ask your professor. Marcus. Why would Marcus. So to give the money What is done by? I think I just th professors. You just have to tell I guess the security gu someone in the admin and then. this is different part of SCIC holds the budget a part of below this is pretty So it depends. I think it is more on is college is what I feel. the shared space meeting rooms at his college company. That is not lab. B I think so will go through college or Lab yoga is managed by a hand complex What is actually we used to find a specific time to say7 is because summers are so crazy hot in Hyderabad. The labs were champp People used to sleep in labs. They used to bring G and properly. So it was a KK 6 PMm., but still what temperature is 25 30 which is better than 45 and 50 so something is better than nothing better situation. So that time was very Peak are the for every day. During every it's very hard cook. It depends on But if you take time period of a semester, before, exams, it's very crowded because everyone is or deadline So just before Ransem, just before Mids is like the most of the people are in they are doing some project discussing where you'i and they were discussing So you have like ask them to shut down There's no formally disc collation. You find some emp ically we were like, let's allocate somebody wants to keep that stuff proper Yeah, true true I got a bigger desk I say I'm happy there. Coffee PhD Yes, I think so. You have to be an employer of the mulge. And then you have to know PhG people who will get you from. So it works. Transitiv is. I say outla answers about we want to know like people used to leave there food packages on somebody does and the rat problem. Somebody else's desk. Yeah. One of them dam anything.' seen But places where Koi had somebody else's desk, that's bad. very bad. Why would you do that? else This is just misuse of privilege, I think. Very bad.. Whoa. How many professors was on how many They used to bring their partners in lab, yes, and use the space for other reasons that come. . You should notite world friends. say, related to systems we are just recording this for cloud right now. I'm so sorry. because you tried to sol The first way would be to talk to Jin Kesar to solve it, but it does go to professors, for example, a random For example, if there is something related to, any events, they require time that are. Then you have to develop faculty somewhere, say aft service is part of candles or felicity slash school life cives, the literies. Now Rad is also there. But E sub you have to faculty if students are not available to solve the. I guess first is clubs council Dragon. There has to be a change. Is there any meth to correct the back for NTC May Any lab. Feed So there is no mechanism per feedback, but what I think is so many Excuse me. We gotta get somewhere. I don't I love this bed. Whoa. not empty or cas come sit down there. Do they have that on to go and tell?. Me t the victim and None of them was a bully kind of thing. So we were very happy at I was. I tried to give back the same feeling. I don't I said you experience as a to see. This is just tea. Please note at this timestamp HEs to discuss over years.. You just suits while I kill you? I don't think so. have more authority over Jews. Can't do that. Yes. For example, GPxes. Why do you Just because you have spent more time in that area, you are kind of, I belong here New people are go at this on every time. It's not more of key. I know, but I was different thing. But it's more of key. I have been here more than you. I am more familiar with this. Very psychological, I think. something, can go to see. Definitely. And then everyone, 95% of will be willing to go out of their way to help.. If someone requires genuine to But helpful. You should always do your background check homework first and then go to the person saying, is a minute. And then people will be. You can't just go and ask him. Nobody will. Sorry. D. Thank you. Thank you. Thank you.
+
+2. Maybe just so he isn't precock and he and we got SURC got a which there so he wanted to use the fridge, but he cannot use the fridge to because it is a SERC fridge but since we are sharing the cafeteria, so anything in the cafeteria should be divided here as well as Pico. So why didn't heor to use the fridge? Because on the fridge, it is written, Siance, fridge holds. So people from SEI see all the flaculty or the person responsible for that resource has clearly mentioned that it is SERC fridge rules. Okay, so maybe in some other way he was like, oh, okay, I cannot use because I'm of people. Can you tell the structure of the lab so like, this is SCR. This is the main, like, this is that side is SERC? Yeah. We see? If we see here is the entrance.. This is SCRC, and this is the main gatery. Here we have cafeteria. LTRC? U is not. Okay. Pol. So it is pre and SCRC.. And GP Labs is basically SCRC. MT MS IPD lab. So these are for only ME PhD MS people. So this is their place, their room. Got it. This is the coffee machine? Yes, like coffee machine also. Coffee machine is here and fridge is here. And we also have one microwave in between here. Okay. are allowed to use? Yeah, students are not allowed. We were allowed to use coffee machines earlier, like I didn't do three years ago, but since one time what happened I think it was mishandled by the students, so it was not maintained properly so they can the students can use cafeteria, but the coffee machine, but there is a specific time. I think it is written there 9 to 12 or 3. So we can use, we can have coffee after that it can like, what about the maintance? Who maintains these things? So the cleaning and allure. Okay, clean. So the admin and also one of the PhD students from the lab I make the POCs and they are responsible to check or check and so for the Fledge, they have this rule where every Saturday of the week they will clean the fridge and the leftover food which have been over two, two, three weeks and it is spoiled. They will automatically throw. So the student who are responsible for that food which is spoiled is supposed to throw it, but if it is still in the fridge, they will throw automatically. So if you want it, you have to save it in something like that. And microgave is not functioning right now. Okay.. And what about the desk and like Gibsy, like you can you? Okay, so there is no particular authority or any person who we can go to and ask what desk is. So when I came ask so 30 year students entering 30 year, people, they are supposed to choose their labs and their advisor. In the ending weeks of their second year. So I I chose a Ramansur and then since Ramansur is in SCRC I did take a test in SCSC. But this was completely obsenate, but it is recommended. take a desk in a lab and sit here. So when I came in SCRC, I asked the senior, like, what all places are empty. And he said, most of them are full, but one or two places are occupied by people, but they don't come. So there was one person who used to sit like right corner, like the left corner of the roof. And it was the perfect place, but he had occupied that place. But he didn't come to the lab. So it was just useless, like, no one can sit here.. And one person occupied this place, like two, to three tables in a, you know, and then he put all his belongings, everything. He bought his pillow, he bought everything here. So he practically used to stay here. So it also was not so convenient because he was occupying two to three tables, which could have been used in a bit. I was one of his shows. So who would like kind of some authority for? No. So at the end of the day, I was just roaming around and then I was coming to the l's office. So I saw this table free, but someone was sitting here and and this wasn't functional. So there was no fan, there was no light and the C was not functional and it was not like this. It was really a storage kind of thing. So I was like, if I have a space here and I cannot practically sit here. So I talked to R so and I said, okay, there is no light, there is no plan. there's real hor state. And we don't have any seats. So he fixed all of this. So this had a lot of junk like there were monitors, there were CPs. So he removed it and then this and this was all and we can flap this, the a second world, we can flap it down to So he tried to make it work. and also about the lunch and other food. People occupy the empty and they don't clean it like this was one complain that we got from other interviews.. They occupy someone at this place and have lunch there. I have never experienced this. I didn't even see it happening. It's always, so since I'm a third year, maybe, so we always have this in my life. I cannot go there at because it is a senior table and it is occupied. So I'm not allowed to sit there. Despite. I still have this fear that I cannot because he will somehow him on my. And then I don't have any s I have never experienced or seen this. And what about the other way around like seniors do they occupy junior table or like Not really, I think.. No, I think they also respect our face. They're not that authoritative. Sometimes they get a little, okay. So if a senior wants a table or if and I want a table, so if I took this horse and he comes and say, I want this, so there is a maybe hesitation, okay, you can have it because you' never see me. But it doesn't happen usually on database you. So in case of conflicts, if it's unsolvable on a person level, like who is that f would intervene and try to conflict try to solve it? So, can you give an example of what type of kind of if I talk about food. Someone has eaten in a place and they have leftovers over there. And you have recognised this person is responsible for cleaning this space. And you're talking to them, but on that person level, you cannot solve. So how that conflict is solved, who are the other people who can intervene or who intervenes? Maybe your friends or maybe.. I think maybe my seniors and my friends only will. are no authorities who go and check over the resources on who sees these contracts. There are no person we can go to and complain about these. We can we only have like technical issues as well so if there is a technical issue wide, like the lights weren jumping and all. So I can go to the admin and ask them to fix it. But for like person contracts on these things, they are now officfficient. And how frequent are these kind of things like person conlexs?. I think it depends, but aak I haven't encountered. But I think I will encounter one because of the fridge. I think someone will steal someone's food and then there will be conflicts. So they are saying that they are like the person said that they act notorious to do that and all. So it's kind of prank and all that is been going on. Something like that.. But you don't know if the other person is comfortable with that. Right, but I think if a person is doing a prank or notorious activities to something and they will be friends and both the parties will be equalvently comfortable. Yeah. Okay, in the activities. For the GU, we were to know that some of the, like he said some authority students who have support. They would like, you look at their time using the website. they would in that situation with somebody who needed it all the urgent vis, they can't use those. So how have you like encountered this kind of things? how this is going to be resumed? So I haven't encountered the GPU lab, so I also don't know what exactly happened while booking the lab or how you book the lab. But from secondhand experience, like my friend Tuesday. he booked the GP ADA service and all the. I think it was fine with him, but yes, there are sl and there are people who are competitive that I want because I want to finish my war. I have to show it to the bra first here and I'll competent it JT. And yes, the PhD students, the ME students, M students, they are more an advantage because of the lab, because GPU lab is there. So they sit there, so they can access it at any time. So the UG students are at a little distance advantage. Like they have to And then the booking is mostly occupied by the ME PhDs. They might be some compliments And another peacock them? It would be like sea should be assigned for the they are under. Not everybody can is the lab has only one c 3K. And they see how he has multiples. Generally, a lab has multiple drops, only precore is one lab, which has only a single. And this is a problem for us because we have like what we have more car. We have Abhishek We have 5 to 6 faculties and each faculty has the size of the student. So everyone sits in as year. peak of only one pK was these many students and they have the entire space to women. So this is those se. Oh, no, these are occupied. Some are not. Since it is pre cannot Soly drops who are decide. So is this side and is that side. So they've asked for it tables where they can allow their students because they sit right here. So they want us students to be close to their office So why are going out, they can check on their students. So this one table is occupied by Ran. So this is Raman'sur's table. That is also Raman'sur's table. And that's how Mr of Bella's table.. So they have asked foron. This wasn't in last year. It will have just happened this.. So what are some, like, do the feedbacks or some reviews for personal technically, you can approach the faculties. But no, they, I don't think any student also want to go and approach a faculty.. So they would try to solve it among ours. What about some surveys kind of thing? Like how comfortable is it to work in the lab? Kind of, there are no surveys There is no space where we can share it. Like any opinion we have we have unofficial group of students in WhatsApp so we can text whoever ate here, please clean this this is not. Like all theaints go there. So there's a WhatsApp proof B complain there and then it is just among the students because it was. It's this kind of thingaining it, having a feedback they were like, okay, we'll sort it ourselves. I think it depends on the student. Like some of the students don't prefer staying in labs and some prefer staying in March. So people who prefer staying in labs might have no problems. But then they would have this 30 why would I go and bother the other person or the faculty or the admin about a very small situation, like personal situations. I think the students will be reluctant to go and talk. Nothing is excirated that much that. Yes, nothing of that sort has happened not something I. Okay. As of now, as of which name, I not it. I hold bagg you think it's... What about if you need any supplies and they all, like, stationary or something? People as personal, all personal, all. We cannot use. We can use. Okay, so some of the labs and it also depends on the cross, some of the props have like the crosss are assigned money, like budget and they can use it according to their projects or students or anything they want to invest in. So, like, I know one prop. So what he does is with the amount he gets, he buys monitors for destilants. So they can work well, they also have broad subscriptions. So they give it to their lab. if they want to use it. So there are resources which are provided by the cloth, but it is only specific to our school. respons and stopping up. No, no, no, nothing. That is the stuff. And what about if you want to bring in some resource, maybe kind of a coffee, not coffee machine, but related to like, k. Okay, so I don't think there is a problem in bringing your kettles. It is in your own personal size or a group of people who want to do, they can contribute or to get there. We just have to inform once about thinking of the thinking. We want to keep it here. So we all collected the money, we want this and we calculated the cafeteria for everyone's using. So if it is a problem, we can like take it back or if it is fine, we can keep it. So we just have to inform I think once the admin or maybe ru writing,ag Reddy is basically SECs main head.. So we can just tell him. Or. Can we leave somebody works how many chairs or number of famous have ACCR? The admin. The ad. So for also, okay, so there are two rooms in this one is the small meeting room and one is the large meeting room. So for meeting rooms also, we have to book the roads. So booking also is the another admin. So we can go up to a and we can we go until we have this meeting from thisood this time Is there any clash? So we clash O there we cannot do that if it is not there so that we can go from looking like we have to go visit We have a website or is it logged in on? I think there is a website as well, but the website's here only is that. So we can just go up there. Okay. Okay.. What about new personal stuff? What? Is there any limitation to kind of personal stuff you can bring over here? I think Is there a rule or something? There is no particular rule on it, but then you can you can have your pillows, you can have anything you want, but it shouldn't be eye catching into the problem, so if a craw is a word is not in a mood and he sees this particular thing that shouldn't be in a workspace kind of environment. So he can lash out. If he's fine when it works chill, so they don't care. They go after five, so we can do anything after five right? That's what was my next question. So this slab is open all night? Yes, yes. The labs are open, but the ACs are turned off. allow one or two. Okay. And it doesn't open in Sundays. So they don't take an account the students. They just see whenever the faculty is there, the ACCs are wrong. No faculty, no ACCs. Okay. Likealaaj the AC saying that why wasting electricity? But we work late night here. So we just have to use that. But in other labs, it is only T thing. other labs, like with the KRV and all, they have ACs, they can have the remote, they can turn it on, they can turn it off what. So there is no centralised AC, centralised AC. This is the staff fru actually closing down the ACs after L., so this was initiated by a broth. Okay, in the LSI. I don't pronounce the name, L. Then he said he the electricity stage should not be there. We can turn off the AC. Okay? Because I think there are less number of students sitting in you. Yeah. But it's okay, it's fine, I think somewhere we have to come in the middle. If they can turn an toe, that's fine.. Thank you so much..
+
+3.
+00:00
+00:01 ki samajh me aayi ki issue we were having
+00:02 is ki gp agar hum use kar rahe hain
+00:04 aur kisi aur ko pata nahi ki wo gp use ho raha hai
+00:06 but wo dekh raha hai ki kuch gp mein run ho raha hai
+00:08 to aisa bhi ho sakta hai ki
+00:10 wo banda gp run ko kill kar de
+00:12 but kyunki ab wo ek website hai
+00:14 matlab gp ke jo bhi process hai kill kar de to isse koi model agar train ho raha hai to
+00:18 progress to barbad ho jayega
+00:19 to abhi kya kar sakte hai ki wo banda pehle website me jake confirm kar sakta hai ki
+00:23 kaun ye run kar raha hai aur tab hota kya hai ki ab hum log
+00:26 internally usse jake pehle puchte hai ki tum ye jo run kar liye ho wo
+00:29 actually run kar rahi ho ya chhod ke
+00:31 kholi bhi ho jaisa is like internally you want to run it or not
+00:34 without taking any action first
+00:36 so that that's one way we like avoid conflicts
+00:39 in a sense
+00:40 one problem which we face from time to time from what I have heard
+00:44 obviously I don't use the platform across this is just like some random
+00:47 ki we
+00:50 uh
+00:51 kuch log rehte hai jo
+00:53 jinke paas to ye reputation hai for like
+00:55 occupying the resources again and again even though they are not using it
+00:59 they just want to occupy it so that they might run the experiment some day in the future
+01:02 but they never come to it to uske wajah se bohot time tak occupied rakhte hai
+01:06 and that did that does lead to some concept un log log in to the website also
+01:10 haan haan occupied karke rakhe hain ek do hafte ke liye rakhe rehte hain
+01:14 aur matlab jinko actually use karna rehta hai kuch urgent ke liye wo log nahi kar pate hain
+01:19 to ye problem bhi hoti hai
+01:21 uske andar se aisi aisi cheezein abhi ho rahi hain to
+01:24 accha ye ye jo sab terms hai sir bol nahi sakte
+01:28 matlab hum log hum log hum dono log the to
+01:31 I don't think koi authority problem aapas mein hi baat kar
+01:34 sir ji wo hum dono hum dono ke upar to sir hi hai na directly
+01:36 hmm
+01:37 lekin hum ye sab baato ke liye unke paas nahi jaate ki sir ye dekho ye
+01:40 kya kar rahi hai ye dekho ye sir wo wo nahi kar paate hum aap ko bhi aap aapas mein hi baat kar lete hain ki kya chal raha hai
+01:45 to ye kar sakte ho kya yaar mere ko kuch urgent chahiye to mai tumse request kar la fir request karne lagta hu
+01:49 uh
+01:50 ki yaar thoda jaldi chahiye kuch ho payega to waisa karke aap aapas pe adjust kar ke rakho
+01:54 to ye sab thoda internally baat kar lete hain
+01:56 koi ladai nahi hui
+01:59 accha aur ye jo desk waghera rehte hain ye kon allocate karta hai like
+02:03 desk to first come first serve rehta hai pehla banda yaha pe dikh gaya wahi pe zindgi bhar rehta hai
+02:08 okay
+02:09 haan to aur matlab usually to un log naam bhi likhte hain
+02:14 lekin kuch log matlab itna baitha rehte hain ki sab ko pata hai jaise mera naam nahi hai yaha pe
+02:18 aur koi aayega yaha pe wo baithega wo dekhega mera aa gaya to wo uth ke chala jayega
+02:22 to koi desk aisa kuch booking system nahi hai?
+02:25 nahi koi booking system nahi hai sirf naam likhne ka system hai
+02:28 aur hum logo ke paas aisa pehle pehle nahi tha ye abhi recently hua hai ye kyunki abhi lab me kuch zyada hi log aa gaye hain to hum log ke paas abhi tables ki kami bhi ho gayi hai to isliye abhi logo ne naya naam system likha warna pehle likhne ka system nahi tha bas jaha baithna hai baith jao
+02:41 aur koi person agar leave pe hai bahut dino se nahi aaya uska desk phir
+02:45 occupy kar sakte hain
+02:46 to usually log occupy kar sakte hai but like everyone has an understanding ki
+02:49 this person sells here so like this person comes every day so like you don't occupy that person comes then you have to leave that desk
+02:56 you have to leave to nahi matlab aisa generally un log aake to bolenge you have to leave
+02:59 but like haan obviously you would give the desk back
+03:01 ab generally log its an unwritten that everyone has their stuff on the table
+03:05 like even when the sum leaves usually his monitors here his keyboard is here
+03:08 same thing goes for two like all this keyboard and stuff are there so like mostly
+03:11 take the places where there's personal things on the list
+03:14 haan matlab logo ke andar courtesy bhi rehgti hai jaise ab main yaha pe nahi rehta hu bohot time tak agar nahi aunga yaha pe ek do mahine ke liye to
+03:20 kisi aur ko yaha pe baithna hai to pehle mere ko message kar deta hai ki main yaha pe baithne wala hu to wapas kab aane wala hai bata do taki main us hisab se apna bandobast move shifting waghera wo sab kar pau agar main ke du ki kisi din aaunga to
+03:30 us din nahi baithunga to wo sab matlab pooch lete hai pehle se ki
+03:33 you know ye sab kaafi choti hai I don't think ye har jagah aisa hota hoga
+03:36 yaha pe bas bacche bahut zyada hai to jagah kam pad jati hai un logo ko isliye hum log abhi ye thoda
+03:40 isko leke thode conscious ho chuke hain
+03:42 warna pehle nahi tha itna kharab
+03:45 aur baaki shared resources like coffee machine or
+03:48 haan wo sab coffee machine students around
+03:52 fridge hai hum log ke paas fridge to koi bhi use kar sakta hai lekin hum log abhi uh
+03:57 policy lagaye hue hai ki naam likhlega apna fridge pe
+04:00 tak ki koi aur na le jaye
+04:02 aur aisi kisi aur ne abhi
+04:05 haan
+04:06 haan abhi haan
+04:07 haan aaye hue hai I think unhone hi sab bataya
+04:09 aur abhi tak utna nahi hua matlab ek do logo ne kiya hua lekin
+04:12 they have no re they have an odd expression ki haan usne kiya haan
+04:16 like badmashi ke liye karna bas haan it's not malicious bad badmashi ho rahi hai
+04:20 but pata rehta hai kaun kar raha hai
+04:22 aisa kuch hua nahi hai abhi tak ki chori use jaise hum log ka samne wala lab bhi aake le sakti hai ya koi aur bhi aake le sakta hai aisa kabhi kuch nahi hua
+04:30 abhi tak to kuch nahi hua fridge to matlab open for all bas un log naam likh dete hain takki pata rahe ki kiska
+04:36 kitna daba ke rakha hai
+04:37 aur baaki jo jaise messy habits jo peacook ke students hai un se a raha hai kuch conflict?
+04:42 abhi tak to nahi hai
+04:43 I don't know kitna fridge use karte wo log wo to pata bhi nahi un log use karte to kar to sakte hai but abhi tak hum logo ne koi aisa issue nahi dekha ki kuch gum gaya
+04:50 hum logo ka paas ye hi tha ki kabhi ek do keyboard rakha raha to chori ho gaya lekin that's very different from like I think whatever you're setting
+04:56 aur wo to college mein aaj kal kahi pe bhi ho raha hai
+05:00 the only issue causes that people eating on other people's desk and leaving it here or cases are that
+05:06 so people are complain about leaving food in the lab so that has gone from a really complete
+05:11 usually they don't care if someone uses their desk
+05:14 haan matlab fir khana ka matlab swiggy ka packet yaha pe chhod ke chale gaye aisa kuch
+05:19 aur ye kuch time tak to matlab
+05:21 co workers ko bhi problem ho rahi thi ki tum khana yahape khana khao hi mat yaha pe gir jaata hai chipkaye rehte hain
+05:27 theek hai utna toh ho gayi sakta hai haan
+05:29 that should completely exactly there's not a lot of places on campus someone can go and sit and eat this
+05:35 yes is slightly basically curteosy thing
+05:39 so we can things that you clean it up with stuff out of
+05:42 aur uske alawa sir jaise chair waghera pehle main bahut particular rehta tha ki meri chair jo hai wo meri hi rahe kyuki iska height adjustment hai ye waghera jo bhi hai matlab main main mark kar ke rakha tha ki ye chair meri hai
+05:52 but I think ab wo bhi nahi karte log kyuki
+05:54 main bhi nahi karta hu
+05:55 kyuki I think chairs ki thodi si kami hai to
+05:59 its just jackets because I put my jacket on my chair
+06:02 so its identifiable ki haan ye meri hai
+06:06 kabhi kabhi pata hai kya hai ki jaise koi T.A hai hum log ke lab me aur wo eval lene lag gaya wo eval lene lag gaya to obviously baki teams bhi ayengi to fir wo char panch chairs ek aise aivayi me eval lene ke liye chipka lenge apne liye to aur fir hum log ko problem hoti hai hum log
+06:19 isme kuch kar nahi sakte
+06:20 aur doosri ye bhi problem hoti hai kabhi ki jaise wahi same eval ke chakkar me wo log cafeteria occupy kar lete hain ki eval yaha pe honge haan aap log eval hue honge kisi na kisi lab me
+06:28 to uske wajah se hum log jaise
+06:30 agar lunch ke time pe karte hai to main lunch nahi kha paunga waha pe to fir main yaha pe khana padega
+06:34 aur yaha pe khaane me mereko thoda ajeeb lagta hai kyuki yaha pe shanti rehti hai piche profs baithe rehte hain aur fir ek dam frnch nahi rehta harr koi nonveg nahi khata
+06:41 to iska thoda issue rehta hai
+06:44 I think kuch nahi kar sakte usme to
+06:48 so like yaha pe aisa koi system establish nahi hai the rules need all that
+06:53 its all like unwritten hand unwritten rules word of mouth hai
+06:58 word of mouth hai jaise authority aayi prof wo wahi bol diya
+07:01 naam likh liya karo haan haan theek hai naam likh lenge kya kehte hain kya coffee machine pe jaise pehle kya tha coffee machine ki story ye hai ki hum logo ko wo coffee machine chahiye thi to hum log ye decide kar liye the ki theek hai har hafte koi na koi coffee machine ki properly maintain karega ye
+07:14 lekin jab coffee machine aaya to koi kara nahi
+07:17 to isse kya hua ki wo log coffee machine ka access jo hai na bacchon se hata diya
+07:22 aur fir un log staff rakh liye coffee machine ko maintain karne ke liye aur ab kya hota hai ki jab bhi koi prof aata hai aur uske liye coffee machine a prof ke liye koi guest aata hai
+07:30 tab waha pe un log chala ke usko wo badhiya se coffee nikal ke denge but wo hum log nahi the mostly profs ya fir jo us level ke hai jo un log collaborators aate hai
+07:40 unko di jaati hai coffee hum log ko nahi di jaati abhi
+07:44 to hum log le hi nahi sakte waha pe lenge waha par ek guard khara rahega abhi
+07:48 rok dega mat lo ek do baar se zyada dikhega to rokk dega aur hoti acchi coffee hai waha se
+07:54 matlb hamare pas list of questions to prepare the like we can ask today sir
+07:58 akhilesh sir poochlo main the thoda context to de diya thoda jyada acche se bataunga thik hai na
+08:02 achi li theek hai thank you
+08:03 akhilesh se jawb likh do aa jana kal parso me yehi pe mil jaunga main akhilesh theek hai
+08:08 thank you
+
+4.
+00:06 yaha pe kaise run karte ho yaha pe
+00:08 yaha pe to
+00:11 sabse hi baat karni hai
+00:12 students to
+00:40 yaha pe jaise coffee machine hai aur fridge waghera hai
+00:44 to wo kis kis ko allowed hai access karna
+00:47 ye log sab
+00:48 ye log students ko bhi sab ko
+00:50 haan students ko bhi
+00:51 aur coffee machine
+00:52 nahi nahi ye only faculties ki
+00:55 staff faculties ke
+00:58 to pehle to matlab students bhi
+01:00 access kar sakte the
+01:01 haan wo jab wo pehle wala tha baad me wo naya
+01:07 aur jab aap kisi student ko use karte hue dekhte ho to aap unko aise rokte ho ke like
+01:12 naya wale me to bolte hai aapke liye nahi hai sir logo ke liye bol ke
+01:16 pehle wala wo log baith ke sab peete the sab faculties ke liye wo thoda
+01:21 to ye is case matlab piche aage labs wale bhi aake students access kar sakte hai un logo ke liye allowed rehta hai
+01:28 nahi nahi un logo ka
+01:31 unka alag waha allowed nahi hota
+01:34 pehle aisa hi ho raha tha aa rahe aapka pet log upar hai 6 floor log aa ke aisa karte hai
+01:39 un log idhar wo entrance par ek sticker laga diye
+01:42 iske CCRC
+01:44 wo robotic lab
+01:45 isko usko allowed hai
+01:47 faculties ka lagaya 4th floor pe aap dekho
+01:50 glass group ka alag hai only
+01:52 LSC GC kuch hai na
+01:54 to usme un log hi allowed hai bas
+01:59 aur yaha pe jaise rush timing kab hota hai like log aake ise use karne ke liye cafeteria aur ye sab ke liye
+02:04 ye sab abhi log to continue rehte hain
+02:07 in log ka faculty log ka in log hamesha yaha night me bhi rehte hain
+02:11 hum log mera abhi main to available hu baaki din
+02:14 acha
+02:15 main to chala jata hu
+02:17 hum log rehte hain
+02:18 aapka yaha pe maintenance ka kaam hai coffee machine cleaning waghera aur restocking phir se
+02:23 haan poora
+02:24 to restocking ke liye aapko kisse bolna padta kisse ko bolna padta
+02:27 hum logo ko admin ko bolna padta
+02:28 okay admin
+02:31 aur ek piche
+02:33 haan PRB me
+02:34 to jo bhi laate hum log stock idhar bulate hain
+02:37 ok
+02:38 humara wo department ka hai
+02:40 wo admin department ka
+02:42 wo log stock leke aate hain hum log bolte hain wo log fill karte hain
+02:46 hum log bol dete hain inko coffee chahiye
+02:49 doodh chahiye coffee powder
+02:54 ye sab manage matlab kon matlab
+02:57 iske upar matlab management kon karta hai ye sab cheezon ka
+03:00 cleaning waghera inka
+03:01 humara idhar ek admin building humara ek supervisor hai
+03:04 hum log unko inform karte hain
+03:05 to wahi supervisor sab kuch matlab ye maintenance of fridge bhi wahi dekhta hai ya fir koi aur
+03:10 nahi nahi hum log hi abhi aake 15 din ho gaye
+03:13 pehle nahi tha abhi 15 din ho gaye
+03:15 acha
+03:16 abhi to student hum logo ko thodi cleaning karte din me ek baar
+03:19 baki to un log hi use kar lete students
+03:23 baki agar kuch samaan kharab ho gaya ho agar khane ka samaan phekna ho to fir kuch rule wagarh
+03:28 notice lagaye madam only saturday pura jo bhi hai wo nikal dena
+03:32 saturday clean hota hai bolke notice lagaya idhar
+03:35 saturday ko jo jo apna hai nikal do
+03:38 khane ka kuch rehta to phek dete baki to
+03:42 aur in log sunday saturday hamesha hi rehte students
+03:46 daily dekhte the un log use karne me
+03:54 yehi sab poochna tha
+03:55 thank you bhaiya
+08:00 acha theek hai
+08:01 thank you
+08:02 thank you bhaiya
+08:03 akhilesh se jawab mile to aa jana kal parso me yehi pe main log mil jaunga main akhilesh theek hai
+08:05 okay
+08:06 theek hai
+08:07 thank you
+
+5.
+Project description is basically the objective is to uh how to utilize the shared resources in SECR in a better way.
+What do you mean by shared resources?
+Shared resources can be GPUs, can be like uh desk, desks, anything.
+Maybe the lockers also which are situated over here.
+So uh since there are two labs situated over here
+Yeah.
+And there are some unwritten rules that people follow.
+So we want to understand what what is the personal understanding over here.
+So like for Precog also you guys have what compute part matlab
+Yeah we have two A40s.
+Okay. That's it.
+And then we have the institute AWS.
+Yeah.
+So how frequently are these resources used?
+Everyday.
+Everyday used by someone is using it.
+Yeah.
+And suppose another person wants to use it.
+Yeah to schedule it. Do you have some website or like
+No it's just on a we just like DM in the group.
+Acha.
+We use like slack for the entire Precog.
+Okay.
+And there's one channel for the GPU.
+Okay.
+So you can just like write I want it from this date.
+It's on the FCFS basis or like
+Depends sometimes if like your deadline is more important like you have paper deadline
+Yeah.
+and you really need the resources sometimes you get more prior.
+Okay.
+How is that decided on like what is the authority over there on the slack I mean
+It's just like everyone just like agrees like
+We just have to convince someone that I want it more and if they agree
+So in case of conflicts has it ever gone to the prof or
+No no. It is manageable on a personal level.
+Yeah.
+What about the resources that you don't have with you guys and you like require for some kind of projects suppose GPU is of under Karthik sir or whatever.
+So can you like access those since we got to know like if it's under one of the professor other students who are not under that professor can't use those.
+Yeah we cannot use.
+So even if you ask them they won't allocate you.
+Okay.
+Unless we're doing a project in collaboration with them we cannot use that.
+It's a hard rule no exceptions ever.
+Sir the website you were talking about earlier was it the SCRC resource tracker or something else
+It's slack only slack only slack channel
+We don't have any website resource.
+How many students are there in Precog lab
+I think around 30 to 40.
+30 to 40. Okay okay.
+What about like if you want to if you need a resource or a subscription a license or something how how is that approach taken.
+Oh you just message PK and if it's like under 100 dollars he will like give it to you.
+And then if you need even more resources usually what happens is
+PK will find someone to collaborate like either in MBC UAI or somewhere abroad who has resources.
+So usually they they come in as a collaborator on the research project
+and they get their name on the project and we can use their resource.
+mutually you can use
+Yeah.
+What about desks and all are the desks enough for the 30 to 40 students right there.
+Currently no.
+So right now I think Yeah right now we have more people than the desks.
+Okay.
+So I think some like we've taken two juniors from the current second year batch.
+They don't have fixed desks in the lab.
+Otherwise everyone else have fixed desks.
+Yeah.
+So what if they want to like work here and they how are they
+basically if any desk is like if someone is not sitting there they can just use it.
+But if everyone is sitting there's no solution.
+Okay.
+So you guys don't have like somebody has written their name on it nobody can sit on their desk.
+We do write our names and that's like that's your desk if you're here
+but we usually anyone in the lab like especially if they don't have a desk they can just come and sit if you're not there.
+Okay.
+Supposedly a junior wanted to use your desk for example so will he like message you or like
+Yeah he would message.
+Okay.
+Or if he says like whenever you're not here can I use it I say okay.
+Okay.
+So have you noticed like if a desk is empty like there are no personal belongings students just using them and then clean like cleaning afterwards is there like does this happen or like they have to take permission from you guys.
+No the desk is empty they can just sit.
+Do you remember any kind of incident that would involve that would have to involve a professor because of that
+It's a pot.
+Because any kind of incident that happened in the past that professor got involved for the resolution of it.
+Not resolution but once Chapla sir like his lab is over there right and rest of his students sit here.
+So he wanted one of the one of the desks near his lab.
+Okay.
+So and then we didn't want to come to SCRC.
+So what happened was basically his students went there for one week
+and then we didn't have any desks.
+So we didn't come to lab then his students came back.
+Okay.
+Apart from that are you like the fridge are the precog students allowed to use fridge
+Fridge is SCRC only but you can just write anyone's name from SCRC use it from them.
+Was this communicated by your best students or but
+How did you come to know this that fridge is only owned by SCRC
+They bought it.
+Yeah students.
+Means was this bought up and paid by some professor or these answer is
+I think professors.
+Professor.
+So like did they account for any sale from you guys like precog students and like if you want to also use this you can also contribute back inside.
+I guess if we officially want it we can ask PK but it's not a big deal.
+So it wasn't a need then or like you guys want a fridge now
+I mean we never thought of having a fridge but now that it's there like you can just write someone's name and
+But like what personal belongings can you bring to lab is there a rule about that
+There's no rule you can bring anything.
+So suppose a junior has a concern about something and he wants to resolve that how that approach how does he approach that like does he talk to seniors are seniors willing to listen to him
+Usually first he will talk to seniors and then if it's resolved it's fine if it's not then he will message PK outside.
+Okay.
+Anything else.
+What about restocking of stationary or anything which is getting restocked over here who manages that.
+Uh there is no like stationary available here.
+Okay.
+It's not really anything that we restock.
+So like coffee machine access was there with the students before
+Mostly what actually happened before I came like since when I came here it was always for the profs.
+What about if you want to get some something cleaned or like if if there is trash over there so
+you just like talk to the cleaning service yeah.
+And how cooperative is SCRC and Precog students if they want to like ask for favors for the fridge or anything else or the compute that is hard answers.
+Oh compute there is no sharing fridge and all is very very like
+About like desks and all can Do they share the desks Do they share the chairs
+No it's it's like very simple.
+Like it's a common understanding that you can't come to this side and sit.
+No no we can sit like we can sit with our friends here like maybe if you're like talking to them you can sit for like a few hours or like you cannot occupy a desk like firmly
+okay
+If somebody does do that from Precog and they sit here like somebody from SCRC would ask them to leave.
+I don't think so.
+I don't think the profs would like us sitting in their lab.
+Okay.
+And how is the desk allocation done like because both labs have more students than the desks so
+You like whenever seniors graduating you ask them if you can take their desk.
+But how are the numbers divided within SC between SCRC and Precog
+All of these desks are SCRCs like this side and inside the inside that channel is SCRC and that side is ours.
+But sometimes Chopla sir sometimes takes some desks.
+So it's all informal like it's not proportioned to the it is not proportioned to the number of students.
+Yeah it is proportioned to that or I think they're initially allocated these and they just stuck with them irrespective of number of students.
+Okay.
+Thank you.
+
+6.
+Here is the line-by-line transcript for the file "PreCog.mp3":
+
+Project description is basically the objective is to uh how to utilize the shared resources in SECR in a better way.
+What do you mean by shared resources?
+Shared resources can be GPUs, can be like uh desk, desks, anything.
+Maybe the lockers also which are situated over here.
+So uh since there are two labs situated over here
+Yeah.
+And there are some unwritten rules that people follow.
+So we want to understand what what is the personal understanding over here.
+So like for Precog also you guys have what compute part matlab
+Yeah we have two A40s.
+Okay. That's it.
+And then we have the institute AWS.
+Yeah.
+So how frequently are these resources used?
+Everyday.
+Everyday used by someone is using it.
+Yeah.
+And suppose another person wants to use it.
+Yeah to schedule it. Do you have some website or like
+No it's just on a we just like DM in the group.
+Acha.
+We use like slack for the entire Precog.
+Okay.
+And there's one channel for the GPU.
+Okay.
+So you can just like write I want it from this date.
+It's on the FCFS basis or like
+Depends sometimes if like your deadline is more important like you have paper deadline
+Yeah.
+and you really need the resources sometimes you get more prior.
+Okay.
+How is that decided on like what is the authority over there on the slack I mean
+It's just like everyone just like agrees like
+We just have to convince someone that I want it more and if they agree
+So in case of conflicts has it ever gone to the prof or
+No no. It is manageable on a personal level.
+Yeah.
+What about the resources that you don't have with you guys and you like require for some kind of projects suppose GPU is of under Karthik sir or whatever.
+So can you like access those since we got to know like if it's under one of the professor other students who are not under that professor can't use those.
+Yeah we cannot use.
+So even if you ask them they won't allocate you.
+Okay.
+Unless we're doing a project in collaboration with them we cannot use that.
+It's a hard rule no exceptions ever.
+Sir the website you were talking about earlier was it the SCRC resource tracker or something else
+It's slack only slack only slack channel
+We don't have any website resource.
+How many students are there in Precog lab
+I think around 30 to 40.
+30 to 40. Okay okay.
+What about like if you want to if you need a resource or a subscription a license or something how how is that approach taken.
+Oh you just message PK and if it's like under 100 dollars he will like give it to you.
+And then if you need even more resources usually what happens is
+PK will find someone to collaborate like either in MBC UAI or somewhere abroad who has resources.
+So usually they they come in as a collaborator on the research project
+and they get their name on the project and we can use their resource.
+mutually you can use
+Yeah.
+What about desks and all are the desks enough for the 30 to 40 students right there.
+Currently no.
+So right now I think Yeah right now we have more people than the desks.
+Okay.
+So I think some like we've taken two juniors from the current second year batch.
+They don't have fixed desks in the lab.
+Otherwise everyone else have fixed desks.
+Yeah.
+So what if they want to like work here and they how are they
+basically if any desk is like if someone is not sitting there they can just use it.
+But if everyone is sitting there's no solution.
+Okay.
+So you guys don't have like somebody has written their name on it nobody can sit on their desk.
+We do write our names and that's like that's your desk if you're here
+but we usually anyone in the lab like especially if they don't have a desk they can just come and sit if you're not there.
+Okay.
+Supposedly a junior wanted to use your desk for example so will he like message you or like
+Yeah he would message.
+Okay.
+Or if he says like whenever you're not here can I use it I say okay.
+Okay.
+So have you noticed like if a desk is empty like there are no personal belongings students just using them and then clean like cleaning afterwards is there like does this happen or like they have to take permission from you guys.
+No the desk is empty they can just sit.
+Do you remember any kind of incident that would involve that would have to involve a professor because of that
+It's a pot.
+Because any kind of incident that happened in the past that professor got involved for the resolution of it.
+Not resolution but once Chapla sir like his lab is over there right and rest of his students sit here.
+So he wanted one of the one of the desks near his lab.
+Okay.
+So and then we didn't want to come to SCRC.
+So what happened was basically his students went there for one week
+and then we didn't have any desks.
+So we didn't come to lab then his students came back.
+Okay.
+Apart from that are you like the fridge are the precog students allowed to use fridge
+Fridge is SCRC only but you can just write anyone's name from SCRC use it from them.
+Was this communicated by your best students or but
+How did you come to know this that fridge is only owned by SCRC
+They bought it.
+Yeah students.
+Means was this bought up and paid by some professor or these answer is
+I think professors.
+Professor.
+So like did they account for any sale from you guys like precog students and like if you want to also use this you can also contribute back inside.
+I guess if we officially want it we can ask PK but it's not a big deal.
+So it wasn't a need then or like you guys want a fridge now
+I mean we never thought of having a fridge but now that it's there like you can just write someone's name and
+But like what personal belongings can you bring to lab is there a rule about that
+There's no rule you can bring anything.
+So suppose a junior has a concern about something and he wants to resolve that how that approach how does he approach that like does he talk to seniors are seniors willing to listen to him
+Usually first he will talk to seniors and then if it's resolved it's fine if it's not then he will message PK outside.
+Okay.
+Anything else.
+What about restocking of stationary or anything which is getting restocked over here who manages that.
+Uh there is no like stationary available here.
+Okay.
+It's not really anything that we restock.
+So like coffee machine access was there with the students before
+Mostly what actually happened before I came like since when I came here it was always for the profs.
+What about if you want to get some something cleaned or like if if there is trash over there so
+you just like talk to the cleaning service yeah.
+And how cooperative is SCRC and Precog students if they want to like ask for favors for the fridge or anything else or the compute that is hard answers.
+Oh compute there is no sharing fridge and all is very very like
+About like desks and all can Do they share the desks Do they share the chairs
+No it's it's like very simple.
+Like it's a common understanding that you can't come to this side and sit.
+No no we can sit like we can sit with our friends here like maybe if you're like talking to them you can sit for like a few hours or like you cannot occupy a desk like firmly
+okay
+If somebody does do that from Precog and they sit here like somebody from SCRC would ask them to leave.
+I don't think so.
+I don't think the profs would like us sitting in their lab.
+Okay.
+And how is the desk allocation done like because both labs have more students than the desks so
+You like whenever seniors graduating you ask them if you can take their desk.
+But how are the numbers divided within SC between SCRC and Precog
+All of these desks are SCRCs like this side and inside the inside that channel is SCRC and that side is ours.
+But sometimes Chopla sir sometimes takes some desks.
+So it's all informal like it's not proportioned to the it is not proportioned to the number of students.
+Yeah it is proportioned to that or I think they're initially allocated these and they just stuck with them irrespective of number of students.
+Okay.
+Thank you.

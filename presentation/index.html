@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Empty Desk · Research Lab Commons</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/tokens.css">
+  <link rel="stylesheet" href="styles/layout.css">
+  <link rel="stylesheet" href="styles/typography.css">
+  <link rel="stylesheet" href="styles/components.css">
+  <link rel="stylesheet" href="styles/diagrams.css">
+</head>
+<body>
+  <!-- Shared SVG arrowheads, referenced by every diagram. Kept zero-size (not display:none) so markers resolve. -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" style="fill:#111111"/></marker>
+      <marker id="ah-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" style="fill:#111111"/></marker>
+      <marker id="ah-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" style="fill:#111111"/></marker>
+      <marker id="ah-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" style="fill:#111111"/></marker>
+      <marker id="ah-coral" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" style="fill:#111111"/></marker>
+      <marker id="ah-light" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" style="fill:#F7F4E8"/></marker>
+    </defs>
+  </svg>
+
+  <main id="stage"><div id="canvas"></div></main>
+  <div id="hud"><div id="progress"></div></div>
+  <div id="counter" aria-live="polite">
+    <button onclick="Deck.prev()" aria-label="Previous slide">‹</button>
+    <span id="pos"></span>
+    <button onclick="Deck.next()" aria-label="Next slide">›</button>
+    <span>N notes · S sources · F full</span>
+  </div>
+  <aside id="notes" aria-label="Speaker notes"></aside>
+  <div id="sources" role="dialog" aria-label="Sources by slide"></div>
+
+  <script src="js/components.js"></script>
+  <script src="js/deck.js"></script>
+  <!-- One file per slide, in narrative order. -->
+  <script src="slides/01-opening.js"></script>
+  <script src="slides/02-problem.js"></script>
+  <script src="slides/03-research.js"></script>
+  <script src="slides/04-system.js"></script>
+  <script src="slides/05-perspectives.js"></script>
+  <script src="slides/06-contradiction.js"></script>
+  <script src="slides/07-iceberg.js"></script>
+  <script src="slides/08-assumptions.js"></script>
+  <script src="slides/09-reframe.js"></script>
+  <script src="slides/10-mechanisms.js"></script>
+  <script src="slides/11-feedback-loop.js"></script>
+  <script src="slides/12-leverage.js"></script>
+  <script src="slides/13-principles.js"></script>
+  <script src="slides/14-not-an-app.js"></script>
+  <script src="slides/15-intervention-system.js"></script>
+  <script src="slides/16-newcomer.js"></script>
+  <script src="slides/17-exception.js"></script>
+  <script src="slides/18-misuse.js"></script>
+  <script src="slides/19-scenarios.js"></script>
+  <script src="slides/20-failure.js"></script>
+  <script src="slides/21-refinement.js"></script>
+  <script src="slides/22-evaluation.js"></script>
+  <script src="slides/23-final-system.js"></script>
+  <script src="slides/24-transformation.js"></script>
+  <script src="slides/25-learning.js"></script>
+  <script>Deck.start();</script>
+</body>
+</html>
