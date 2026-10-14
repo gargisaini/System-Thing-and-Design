@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Empty Desk Poster</title>
+<style>
+  @page { size: 1440px 2376px; margin: 0; }
+  :root {
+    --blue: #1181C8; --green: #7ED957; --box: #F6F2F2; --ink: #1d1d1f; --ink2: #4a4560;
+    --orange: #F5A65B; --pink: #F3A6C8; --lav: #C3B5F7; --sky: #9FD3F5; --lime: #DFFF4F; --cream: #FFFDF5;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #fff; }
+  body { width: 1440px; height: 2376px; position: relative; overflow: hidden;
+    font-family: "Segoe UI", Arial, sans-serif; color: var(--ink);
+    -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .bg { position: absolute; inset: 0; width: 1440px; height: 2376px; }
+  .abs { position: absolute; }
+  .panel { position: absolute; background: var(--box); padding: 0 26px; }
+  .q { font: italic 700 19px/1.25 "Segoe UI", Arial, sans-serif; color: var(--ink2); margin: 0 0 12px; }
+  h4 { margin: 0 0 6px; font: 800 17px/1.2 "Segoe UI", Arial, sans-serif; letter-spacing: .06em; text-transform: uppercase; color: var(--blue); }
+  p { margin: 0; font-size: 16.5px; line-height: 1.42; }
+  .small { font-size: 14.5px; line-height: 1.38; }
+  .card { background: #fff; border: 2px solid var(--ink); border-radius: 10px; padding: 10px 14px; }
+  .hl { background: var(--lime); padding: 0 4px; font-weight: 700; }
+  .chip { display: inline-block; border: 1.5px solid var(--ink); border-radius: 999px; padding: 1px 7px; margin: 0 3px 4px 0; font-size: 12px; font-weight: 600; background: #fff; }
+  ul { margin: 4px 0 0; padding-left: 18px; } li { font-size: 15px; line-height: 1.38; margin-bottom: 2px; }
+  svg text { font-family: "Segoe UI", Arial, sans-serif; fill: var(--ink); }
+  .edge { stroke: #1d1d1f; stroke-width: 2.4; fill: none; }
+  .dash { stroke-dasharray: 8 6; }
+  table { border-collapse: collapse; width: 100%; }
+  td { font-size: 13.5px; line-height: 1.28; padding: 4px 6px; border-bottom: 1px solid #cfc8c8; vertical-align: top; }
+  .tag { display: inline-block; min-width: 34px; text-align: center; font-weight: 800; font-size: 13px; border: 1.5px solid var(--ink); border-radius: 6px; padding: 1px 4px; }
+</style>
+</head>
+<body>
+<img class="bg" src="template-bg.png" alt="">
+
+<!-- shared arrow markers -->
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1d1d1f"/></marker>
+  </defs>
+</svg>
+
+<!-- ============ HEADER ============ -->
+<div class="abs" style="left:40px;top:76px;width:1000px;height:56px;background:var(--blue)"></div>
+<div class="abs" style="left:46px;top:78px;color:#fff;font:800 34px/1.1 'Segoe UI',Arial,sans-serif">THE EMPTY DESK: Making Shared Lab Resources Readable</div>
+<div class="abs" style="left:46px;top:124px;color:#e8f4ff;font:600 19px/1.2 'Segoe UI',Arial,sans-serif">Research Lab Commons · SERC × Precog, IIIT Hyderabad · Team <b>The System Error</b></div>
+<div class="abs" style="left:262px;top:173px;font:700 21px/1.4 'Segoe UI',Arial,sans-serif">Gargi Saini · Deepti Koranga · Dhawal Pawanarkar</div>
+
+<!-- ============ 01 SYSTEM FRAMING ============ -->
+<div class="panel" style="left:30px;top:286px;width:1385px;height:272px;padding:0 16px">
+  <p class="q">Describing what the problem is really about · Problem + Boundary</p>
+  <div style="display:grid;grid-template-columns:520px 470px 1fr;gap:22px">
+    <div>
+      <h4>Problem</h4>
+      <p class="small" style="color:#555">Two research labs share one floor: <b>~100 students, 84 desks</b>, GPUs, 12 lockers, 2 meeting rooms, one fridge, coffee machine and microwave. Students reported occupied-looking empty desks, GPU contention and food waste, yet also cooperative borrowing.</p>
+      <div class="card" style="margin-top:8px;background:var(--lime);border-width:2.5px">
+        <p style="font-size:15.5px;line-height:1.38"><b>Reframed problem:</b> Shared resources in SERC are not only constrained by limited capacity; they are made harder to access by <b>fragmented ownership, fragmented visibility, unwritten rules</b> and dependence on informal negotiation. A resource can be <b>physically available but still remain effectively unavailable.</b></p>
+      </div>
+    </div>
+    <div>
+      <h4>Boundary</h4>
+      <svg width="470" height="214" viewBox="0 0 470 214">
+        <rect x="2" y="2" width="466" height="210" rx="22" fill="#fff" stroke="#1d1d1f" stroke-width="2" stroke-dasharray="7 5"/>
+        <rect x="22" y="28" width="426" height="148" rx="18" fill="#E3F1FB" stroke="#1181C8" stroke-width="2.5"/>
+        <rect x="44" y="54" width="382" height="92" rx="14" fill="var(--green)" stroke="#1d1d1f" stroke-width="2.5"/>
+        <text x="235" y="19" text-anchor="middle" style="font-size:13px;font-weight:700">OUTSIDE: campus construction · admissions · research evaluation</text>
+        <text x="235" y="46" text-anchor="middle" style="font-size:13px;font-weight:700;fill:#0c5d91">BOUNDARY: institute rules · cleaning · procurement · admin</text>
+        <text x="235" y="76" text-anchor="middle" style="font-size:15px;font-weight:800">INSIDE THE SYSTEM</text>
+        <text x="235" y="98" text-anchor="middle" style="font-size:13.5px;font-weight:600">desks &amp; chairs · local GPU time · fridge, coffee, microwave</text>
+        <text x="235" y="117" text-anchor="middle" style="font-size:13.5px;font-weight:600">lockers &amp; storage · meeting rooms · and the people</text>
+        <text x="235" y="136" text-anchor="middle" style="font-size:13.5px;font-weight:600">who authorise or negotiate their use</text>
+        <text x="235" y="200" text-anchor="middle" style="font-size:12.5px;font-style:italic">Shared location ≠ shared resource (cafeteria vs. its appliances)</text>
+      </svg>
+    </div>
+    <div>
+      <h4>Core tension</h4>
+      <div style="display:flex;gap:10px;margin-bottom:10px">
+        <div class="card" style="flex:1;text-align:center;padding:6px"><div style="font:900 34px/1 'Segoe UI'">~100</div><div class="small">students</div></div>
+        <div class="card" style="flex:1;text-align:center;padding:6px"><div style="font:900 34px/1 'Segoe UI'">84</div><div class="small">desks</div></div>
+        <div class="card" style="flex:1;text-align:center;padding:6px"><div style="font:900 34px/1 'Segoe UI'">2</div><div class="small">labs, 1 floor</div></div>
+      </div>
+      <p style="font-size:22px;font-weight:800;line-height:1.2">Empty ≠ available.</p>
+      <p class="small" style="margin-top:4px">We found a <b>readability problem sitting on top of a capacity problem</b>. Peak-time shortage is real, but newcomers also cannot tell what is free, who holds it, or whom to ask.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ============ 02 SYSTEM MAPPING ============ -->
+<div class="panel" style="left:22px;top:648px;width:676px;height:712px">
+  <p class="q">What makes the system work? · Actors + Relationships · System Map</p>
+  <svg width="624" height="420" viewBox="0 0 624 420">
+    <rect x="2" y="2" width="620" height="416" rx="34" fill="#fff" stroke="#1d1d1f" stroke-width="2" stroke-dasharray="8 6"/>
+    <!-- edges to centre -->
+    <line x1="150" y1="110" x2="248" y2="178" class="edge" marker-end="url(#ah)"/>
+    <line x1="474" y1="110" x2="376" y2="178" class="edge" marker-end="url(#ah)"/>
+    <line x1="150" y1="310" x2="248" y2="244" class="edge" marker-end="url(#ah)"/>
+    <line x1="474" y1="310" x2="376" y2="244" class="edge" marker-end="url(#ah)"/>
+    <!-- clusters -->
+    <g>
+      <ellipse cx="150" cy="96" rx="132" ry="78" fill="var(--pink)" stroke="#1d1d1f" stroke-width="2.2"/>
+      <text x="150" y="58" text-anchor="middle" style="font-size:16px;font-weight:800">PEOPLE &amp; PRACTICE</text>
+      <text x="150" y="82" text-anchor="middle" style="font-size:13.5px">SERC + Precog students</text>
+      <text x="150" y="100" text-anchor="middle" style="font-size:13.5px">seniors · juniors · visitors</text>
+      <text x="150" y="118" text-anchor="middle" style="font-size:13.5px">courtesy, claims, negotiation</text>
+    </g>
+    <g>
+      <ellipse cx="474" cy="96" rx="132" ry="78" fill="var(--lav)" stroke="#1d1d1f" stroke-width="2.2"/>
+      <text x="474" y="58" text-anchor="middle" style="font-size:16px;font-weight:800">AUTHORITY &amp; SUPPORT</text>
+      <text x="474" y="82" text-anchor="middle" style="font-size:13.5px">faculty &amp; lab leadership</text>
+      <text x="474" y="100" text-anchor="middle" style="font-size:13.5px">admin · supervisor · cleaners</text>
+      <text x="474" y="118" text-anchor="middle" style="font-size:13.5px">budgets, permissions, repairs</text>
+    </g>
+    <g>
+      <ellipse cx="150" cy="318" rx="132" ry="74" fill="var(--orange)" stroke="#1d1d1f" stroke-width="2.2"/>
+      <text x="150" y="294" text-anchor="middle" style="font-size:16px;font-weight:800">FINITE RESOURCES</text>
+      <text x="150" y="318" text-anchor="middle" style="font-size:13.5px">desks, chairs, GPU time</text>
+      <text x="150" y="336" text-anchor="middle" style="font-size:13.5px">fridge · microwave · coffee</text>
+      <text x="150" y="354" text-anchor="middle" style="font-size:13.5px">cafeteria space · storage</text>
+    </g>
+    <g>
+      <ellipse cx="474" cy="318" rx="132" ry="74" fill="var(--sky)" stroke="#1d1d1f" stroke-width="2.2"/>
+      <text x="474" y="294" text-anchor="middle" style="font-size:16px;font-weight:800">INFORMATION CHANNELS</text>
+      <text x="474" y="318" text-anchor="middle" style="font-size:13.5px">names &amp; belongings on desks</text>
+      <text x="474" y="336" text-anchor="middle" style="font-size:13.5px">tracker (SERC) · Slack (Precog)</text>
+      <text x="474" y="354" text-anchor="middle" style="font-size:13.5px">WhatsApp · notices · word of mouth</text>
+    </g>
+    <!-- centre -->
+    <rect x="232" y="172" width="160" height="78" rx="6" fill="var(--lime)" stroke="#1d1d1f" stroke-width="2.6"/>
+    <text x="312" y="198" text-anchor="middle" style="font-size:15px;font-weight:800">ACCESS TO</text>
+    <text x="312" y="217" text-anchor="middle" style="font-size:15px;font-weight:800">USABLE RESEARCH</text>
+    <text x="312" y="236" text-anchor="middle" style="font-size:15px;font-weight:800">SPACE</text>
+    <!-- edge labels -->
+    <g style="font-size:12.5px;font-weight:700">
+      <rect x="160" y="140" width="72" height="22" rx="11" fill="#fff" stroke="#1d1d1f"/><text x="196" y="155" text-anchor="middle">requests</text>
+      <rect x="390" y="140" width="80" height="22" rx="11" fill="#fff" stroke="#1d1d1f"/><text x="430" y="155" text-anchor="middle">authorises</text>
+      <rect x="158" y="262" width="74" height="22" rx="11" fill="#fff" stroke="#1d1d1f"/><text x="195" y="277" text-anchor="middle">capacity</text>
+      <rect x="392" y="262" width="70" height="22" rx="11" fill="#fff" stroke="#1d1d1f"/><text x="427" y="277" text-anchor="middle">signals</text>
+    </g>
+    <text x="312" y="411" text-anchor="middle" style="font-size:12px;font-weight:700;letter-spacing:.06em">DEPENDENCIES: INSTITUTE RULES · CLEANING · PROCUREMENT · ADMIN</text>
+  </svg>
+  <h4 style="margin-top:12px">Key actors &amp; relationships</h4>
+  <table>
+    <tr><td style="width:150px"><b>Seniors / incumbents</b></td><td>Hold desks and GPU slots; names and belongings act as claims; grant permission informally.</td></tr>
+    <tr><td><b>Juniors / newcomers</b></td><td>Must ask to use what looks free; hesitate at desks they were never refused.</td></tr>
+    <tr><td><b>Faculty</b></td><td>Control funding and permissions; allocation follows who paid. Act quickly when reached, but small issues rarely reach them.</td></tr>
+    <tr><td><b>Student POCs / GPU manager</b></td><td>Keep the SERC tracker; act as informal resource managers and brokers.</td></tr>
+    <tr><td><b>Admin, supervisor &amp; cleaners</b></td><td>Room booking, procurement, upkeep, Saturday fridge clear. Report shortages up the chain but never decide eligibility.</td></tr>
+  </table>
+  <p class="small" style="margin-top:8px"><b>No single floor-wide allocation process</b>: only local arrangements held together by courtesy.</p>
+</div>
+
+<!-- ============ 03 SYSTEM DYNAMICS ============ -->
+<div class="panel" style="left:746px;top:648px;width:676px;height:712px">
+  <p class="q">Why does it persist? · Feedback + Dynamics · CLD + Narrative</p>
+  <svg width="576" height="360" viewBox="0 0 624 390" style="display:block;margin:0 auto">
+    <rect x="0" y="0" width="624" height="390" rx="14" fill="#fff"/>
+    <!-- edges -->
+    <path class="edge" d="M222 58 H400" marker-end="url(#ah)"/>
+    <path class="edge" d="M512 88 V266" marker-end="url(#ah)"/>
+    <path class="edge" d="M400 298 H222" marker-end="url(#ah)"/>
+    <path class="edge dash" d="M112 266 V90" marker-end="url(#ah)"/>
+    <path class="edge" d="M470 266 L410 210" marker-end="url(#ah)"/>
+    <path class="edge" d="M410 150 L470 92" marker-end="url(#ah)"/>
+    <!-- nodes -->
+    <rect x="12" y="28" width="210" height="60" rx="8" fill="var(--orange)" stroke="#1d1d1f" stroke-width="2"/>
+    <text x="117" y="53" text-anchor="middle" style="font-size:14.5px;font-weight:700">Strength of persistent</text><text x="117" y="72" text-anchor="middle" style="font-size:14.5px;font-weight:700">desk claims</text>
+    <rect x="402" y="28" width="210" height="60" rx="8" fill="var(--sky)" stroke="#1d1d1f" stroke-width="2"/>
+    <text x="507" y="53" text-anchor="middle" style="font-size:14.5px;font-weight:700">Desk availability</text><text x="507" y="72" text-anchor="middle" style="font-size:14.5px;font-weight:700">for newcomers</text>
+    <rect x="402" y="268" width="210" height="60" rx="8" fill="var(--pink)" stroke="#1d1d1f" stroke-width="2"/>
+    <text x="507" y="293" text-anchor="middle" style="font-size:14.5px;font-weight:700">Unmet demand</text><text x="507" y="312" text-anchor="middle" style="font-size:14.5px;font-weight:700">for desks</text>
+    <rect x="12" y="268" width="210" height="60" rx="8" fill="var(--orange)" stroke="#1d1d1f" stroke-width="2"/>
+    <text x="117" y="293" text-anchor="middle" style="font-size:14.5px;font-weight:700">Pressure to secure</text><text x="117" y="312" text-anchor="middle" style="font-size:14.5px;font-weight:700">a personal desk</text>
+    <rect x="300" y="150" width="140" height="60" rx="8" fill="var(--lav)" stroke="#1d1d1f" stroke-width="2"/>
+    <text x="370" y="175" text-anchor="middle" style="font-size:14px;font-weight:700">Negotiated</text><text x="370" y="194" text-anchor="middle" style="font-size:14px;font-weight:700">temporary sharing</text>
+    <!-- polarities -->
+    <g style="font-size:18px;font-weight:900">
+      <circle cx="311" cy="58" r="13" fill="#fff" stroke="#1d1d1f" stroke-width="1.6"/><text x="311" y="64" text-anchor="middle">−</text>
+      <circle cx="512" cy="170" r="13" fill="#fff" stroke="#1d1d1f" stroke-width="1.6"/><text x="512" y="176" text-anchor="middle">−</text>
+      <circle cx="311" cy="298" r="13" fill="#fff" stroke="#1d1d1f" stroke-width="1.6"/><text x="311" y="304" text-anchor="middle">+</text>
+      <circle cx="112" cy="190" r="13" fill="#fff" stroke="#1d1d1f" stroke-width="1.6"/><text x="112" y="196" text-anchor="middle">+</text>
+      <circle cx="450" cy="248" r="12" fill="#fff" stroke="#1d1d1f" stroke-width="1.6"/><text x="450" y="254" text-anchor="middle">+</text>
+      <circle cx="450" cy="112" r="12" fill="#fff" stroke="#1d1d1f" stroke-width="1.6"/><text x="450" y="118" text-anchor="middle">+</text>
+    </g>
+    <text x="72" y="240" style="font-size:13px;font-weight:700;font-style:italic">delay</text>
+    <!-- loop glyphs -->
+    <circle cx="205" cy="180" r="38" fill="var(--lime)" stroke="#1d1d1f" stroke-width="2"/>
+    <text x="205" y="179" text-anchor="middle" style="font-size:22px;font-weight:900">R1</text><text x="205" y="197" text-anchor="middle" style="font-size:10.5px;font-weight:700">reinforcing</text>
+    <circle cx="572" cy="180" r="38" fill="var(--lav)" stroke="#1d1d1f" stroke-width="2"/>
+    <text x="572" y="179" text-anchor="middle" style="font-size:22px;font-weight:900">B1</text><text x="572" y="197" text-anchor="middle" style="font-size:11px;font-weight:700">balancing</text>
+    <!-- legend -->
+    <line x1="20" y1="366" x2="62" y2="366" class="edge"/><text x="70" y="371" style="font-size:12.5px;font-weight:600">supported by borrowing &amp; shortage accounts</text>
+    <line x1="340" y1="366" x2="382" y2="366" class="edge dash"/><text x="390" y="371" style="font-size:12.5px;font-weight:600">inference needing validation</text>
+  </svg>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:10px">
+    <div>
+      <h4><span class="tag" style="background:var(--lime)">R1</span> Claims reinforce scarcity</h4>
+      <p class="small">Stronger claims shrink newcomer availability → unmet demand rises → pressure to secure a personal desk grows → over time, claims strengthen further.</p>
+    </div>
+    <div>
+      <h4><span class="tag" style="background:var(--lav)">B1</span> Negotiation gives relief</h4>
+      <p class="small">Sharing frees desks only when the holder is absent, reachable and willing, and the requester feels able to ask. A junior's hesitation weakens it.</p>
+    </div>
+  </div>
+  <h4 style="margin-top:10px">Narrative: why it persists</h4>
+  <p class="small">Delays hide the loop: <b>absence → desk release</b>, <b>GPU reservation → actual use</b>, <b>minor problem → formal awareness</b>. Because status is unreadable (SERC tracker, Precog Slack, names on desks: all separate), every check becomes a person-to-person query. Problems surface late, so correction is blunt, e.g. <b>coffee access withdrawn from all students</b>, and the shared benefit is lost. Underneath sit mental models: <i>“a desk someone regularly uses is effectively theirs.”</i></p>
+  <div style="margin-top:8px">
+    <span class="chip" style="background:var(--orange)">M1 claims persist</span><span class="chip" style="background:var(--sky)">M2 status unreadable</span><span class="chip" style="background:var(--pink)">M3 access runs on asking</span><span class="chip" style="background:var(--pink)">M4 late, blunt correction</span><span class="chip" style="background:var(--lav)">M5 allocation follows history</span>
+  </div>
+</div>
+
+<!-- ============ 04 LEVERAGE POINTS ============ -->
+<div class="panel" style="left:23px;top:1446px;width:675px;height:728px">
+  <p class="q">Where can we intervene to create meaningful change? · Intervention Opportunities</p>
+  <div style="display:flex;justify-content:space-between;font:800 13px 'Segoe UI';letter-spacing:.1em;color:var(--ink2);margin-bottom:6px"><span>▲ SHALLOW · fast, easy, lower leverage</span></div>
+  <div id="lps"></div>
+  <div class="card" style="margin-top:10px;background:var(--lime);border-width:2.5px;display:flex;gap:14px;align-items:center">
+    <div style="font:900 22px/1.1 'Segoe UI';white-space:nowrap">LP3 → LP4 → LP5</div>
+    <p class="small"><b>Highest practical leverage now.</b> You cannot enforce a rule no one can see: visibility (LP3) enables fair rules (LP4), which enable a self-correcting review (LP5).</p>
+  </div>
+  <p class="small" style="margin-top:8px"><b>Goal shift (LP6):</b> from <i>“protect what my group funded”</i> to <b>“use idle capacity, with attribution”</b>. Not “remove ownership”.</p>
+</div>
+
+<!-- ============ 05 SYSTEMIC DESIGN INTERVENTION ============ -->
+<div class="panel" style="left:742px;top:1448px;width:676px;height:726px">
+  <p class="q">Systemic Design Concept: one system, five parts (not an app)</p>
+  <div style="position:relative;width:624px;height:400px">
+    <svg width="624" height="400" style="position:absolute;inset:0">
+      <rect x="1" y="12" width="622" height="266" rx="12" fill="none" stroke="#1d1d1f" stroke-width="1.6" stroke-dasharray="7 5"/>
+      <rect x="1" y="296" width="622" height="102" rx="12" fill="#F0FBE6" stroke="#1d1d1f" stroke-width="1.6" stroke-dasharray="7 5"/>
+      <path class="edge" d="M232 82 H300" marker-end="url(#ah)" style="stroke-width:3"/>
+      <path class="edge" d="M390 188 V146" marker-end="url(#ah)" style="stroke-width:3"/>
+      <path class="edge" d="M500 270 V332 H446" marker-end="url(#ah)" style="stroke-width:3"/>
+      <path class="edge dash" d="M180 350 H60 V140" marker-end="url(#ah)" style="stroke-width:2.6"/>
+    </svg>
+    <span class="chip" style="position:absolute;left:14px;top:0;background:var(--lime)">STAGE 1 · CORE SYSTEM</span>
+    <span class="chip" style="position:absolute;left:14px;top:285px;background:var(--lime)">STAGE 2 · EVERY TERM</span>
+    <div class="card" style="position:absolute;left:14px;top:30px;width:218px;height:112px;background:var(--sky)">
+      <div style="font:900 17px/1.15 'Segoe UI'">1 · Claim Signals</div>
+      <div class="small" style="font-size:13.5px;margin-top:3px">Dated desk cards; “expected release” + “OK to pause?” fields on the existing GPU page.</div>
+    </div>
+    <div class="card" style="position:absolute;left:302px;top:30px;width:306px;height:114px;background:var(--orange)">
+      <div style="font:900 17px/1.15 'Segoe UI'">2 · Default-Decay Claims</div>
+      <div class="small" style="font-size:12.5px;line-height:1.3;margin-top:3px">Card &gt;7 days old → borrow for the day; &gt;21 days → steward messages; 5 working days, no reply → queue. Unstarted GPU slot lapses in 2 h; running jobs never stopped.</div>
+    </div>
+    <div class="card" style="position:absolute;left:94px;top:190px;width:514px;height:80px;background:var(--lav);display:grid;grid-template-columns:1fr 1fr;gap:10px">
+      <div><div style="font:900 16px/1.15 'Segoe UI'">4 · Stewards + Ladder</div><div class="small" style="font-size:12.5px;line-height:1.3">Cross-lab pairs, ≤1 h/wk. Peer → steward (≤2 work days) → faculty (≤1 wk).</div></div>
+      <div style="background:var(--pink);border:1.5px solid #1d1d1f;border-radius:8px;padding:4px 8px"><div style="font:900 14.5px/1.15 'Segoe UI'">3 · Proportionate Care</div><div class="small" style="font-size:12.5px">Label → reminder → private word → individual limit.</div></div>
+    </div>
+    <div class="card" style="position:absolute;left:186px;top:310px;width:260px;height:78px;background:#1d1d1f;color:#fff">
+      <div style="font:900 16px/1.15 'Segoe UI'">5 · Allocation &amp; Issue Review</div>
+      <div class="small" style="font-size:13px">One 45-min joint SERC–Precog review per term.</div>
+    </div>
+    <div class="abs small" style="left:236px;top:150px;font-size:12px;font-weight:700;width:150px">confirms lapses (not faculty)</div>
+    <div class="abs small" style="left:234px;top:56px;font-size:11.5px;font-weight:700;width:70px;line-height:1.1">makes lapses visible</div>
+    <div class="abs small" style="left:456px;top:345px;font-size:12px;font-weight:700;width:160px">issue log feeds the review</div>
+    <div class="abs small" style="left:14px;top:150px;font-size:11.5px;font-weight:700;width:76px;line-height:1.15;background:var(--box)">changes a number, state or role → bay notice</div>
+  </div>
+  <h4 style="margin-top:10px">Mechanism → intervention → expected effect</h4>
+  <table>
+    <tr><td style="width:150px"><b>M2</b> status unreadable</td><td style="width:140px">1 Claim Signals</td><td>Free capacity reads as free; fewer manual checks.</td></tr>
+    <tr><td><b>M1</b> claims persist</td><td>2 Default-Decay</td><td>Claims track actual use; less defensive reserving.</td></tr>
+    <tr><td><b>M3</b> access runs on asking</td><td>4 Stewards + ladder</td><td>Asking becomes cheaper and less personal.</td></tr>
+    <tr><td><b>M4</b> blunt correction</td><td>3 Proportionate Care</td><td>Misuse controlled; amenities stay open to all.</td></tr>
+    <tr><td><b>M5</b> history-based allocation</td><td>5 Termly Review</td><td>Allocation adapts to use before crises.</td></tr>
+  </table>
+  <p class="small" style="margin-top:8px"><b>Kept as is:</b> ask-first norm · faculty authority · equipment attribution · GPU quotas. <i>Proposed design, low-tech (paper cards, existing GPU page, a shared sheet). Effects predicted, not yet measured.</i></p>
+</div>
+
+<script>
+  const LP = [
+    ['LP1', 'Correction targeting', 'shallow', 'Correct the responsible individual, not the whole group.', '#fff', '#1d1d1f'],
+    ['LP2', 'Loop gain on hoarding', 'shallow → medium', 'Make idle holding visible so it carries a social cost.', '#fff', '#1d1d1f'],
+    ['LP3', 'Information flow ★', 'core · highest buildable', 'One shared visibility layer: holder, active/idle, time held, expected release, contact.', 'var(--lime)', '#1d1d1f'],
+    ['LP4', 'Rules of engagement', 'medium → deep', 'Light explicit rules: reservation expiry, idle-release, escalation path.', 'var(--lav)', '#1d1d1f'],
+    ['LP5', 'Self-organisation', 'deep structural', 'Standing semesterly reallocation review on current headcount + usage.', 'var(--lav)', '#1d1d1f'],
+    ['LP6', 'System goal', 'deep', 'Utilisation with attribution, not exclusivity.', '#1d1d1f', '#fff'],
+    ['LP7', 'Mental model', 'deepest', 'Keep attribution without turning it into exclusivity.', '#1d1d1f', '#fff']
+  ];
+  document.getElementById('lps').innerHTML = LP.map(([id, n, d, t, bg, fg], k) => `
+    <div style="margin-left:${k * 14}px;margin-bottom:6px;display:grid;grid-template-columns:62px 190px 1fr;align-items:center;border:2px solid #1d1d1f;border-radius:8px;background:${bg};color:${fg};min-height:56px;${k === 2 ? 'box-shadow:4px 4px 0 #1d1d1f;' : ''}">
+      <div style="font:900 18px 'Segoe UI';text-align:center;border-right:2px solid ${fg};align-self:stretch;display:grid;place-items:center">${id}</div>
+      <div style="padding:4px 10px"><div style="font:800 15.5px/1.15 'Segoe UI'">${n}</div><div style="font:700 11px 'Segoe UI';letter-spacing:.08em;text-transform:uppercase;opacity:.75">${d}</div></div>
+      <div style="padding:4px 10px;font-size:13.5px;line-height:1.3">${t}</div>
+    </div>`).join('') + `<div style="font:800 13px 'Segoe UI';letter-spacing:.1em;color:var(--ink2);text-align:right">▼ DEEP · slower, harder, higher leverage</div>`;
+</script>
+</body>
+</html>
